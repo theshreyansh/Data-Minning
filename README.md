@@ -1,5 +1,5 @@
 # Data Mining With Python
-> Code snippets for the "Data Mining With Python" course, available at Pirple.com
+> Code snippets, practices, homeworks and learnings for the "Data Mining With Python" course, available at Pirple.com
 
 
 ## This course is now available
